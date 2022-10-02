@@ -6,4 +6,5 @@ https://seek.onlinedegree.iitm.ac.in/courses/ns_22t3_cs2002
 
 
 #Lecture Series
-https://www.youtube.com/playlist?list=PLZ2ps__7DhBaDccbZRgiU1sHX2gZrQ-XT
+[Lecture Series on Youtube]([https://external.ink?to=/placeholder.com](https://www.youtube.com/playlist?list=PLZ2ps__7DhBaDccbZRgiU1sHX2gZrQ-XT))
+
